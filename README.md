@@ -19,6 +19,9 @@ A memetic algorithm is a population-based optimization method that integrates **
 - **Machine Learning**: Hyperparameter tuning and feature selection.
 - **Bioinformatics**: Protein folding, sequence alignment, and genetic analysis.
 
+### Contact Information
+- If you have any questions, suggestions, or feedback, please get in touch with me at ce.tahmoursi@gmail.com. I’d be happy to help.
+  Amirhossein 
 ---
 
 
